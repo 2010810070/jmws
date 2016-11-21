@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>魔剑无双</string>
+				<string>com.tianmashikong.qmqj.kuaiyong</string>
 				<key>bundle-version</key>
-				<string>5.3.2</string>
+				<string>2.3.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>welcome the game</string>
+				<string>魔剑无双</string>
 			</dict>
 		</dict>
 	</array>
